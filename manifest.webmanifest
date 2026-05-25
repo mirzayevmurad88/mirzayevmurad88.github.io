@@ -1,0 +1,17 @@
+{
+  "name": "İçərişəhər Audio Guide",
+  "short_name": "Audio Guide",
+  "description": "Prototype PWA shell for the İçərişəhər Digital Audio Guide Module.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e7",
+  "theme_color": "#17423d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
