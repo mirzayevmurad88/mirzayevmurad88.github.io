@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="İçərişəhər Audio Guide icon">
+  <rect width="192" height="192" rx="32" fill="#17423d"/>
+  <path d="M48 136V70l48-22 48 22v66" fill="none" stroke="#f5f1e7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M72 136V92h48v44" fill="none" stroke="#d6a64a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="78" r="8" fill="#f5f1e7"/>
+</svg>
